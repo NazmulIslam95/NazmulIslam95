@@ -4,7 +4,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-My name is Nazmul Islam and I'm a 🚀 Frontend Developer | ⚛️ React.js Developer. I'm from Bangladesh, living in Dhaka. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+My name is Nazmul Islam and I'm a 🚀 Frontend Developer | ⚛️ React.js Developer. I'm from Bangladesh, living in Dhaka. You can find me on [![Twitter][1.2]][1]  or on [![LinkedIn][3.2]][3].
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
