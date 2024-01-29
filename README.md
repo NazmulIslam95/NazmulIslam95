@@ -17,9 +17,7 @@ My name is Nazmul Islam and I'm a 🚀 Frontend Developer | ⚛️ React.js Deve
 ![](https://img.shields.io/badge/Deploy-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Package_Manager-npm-informational?style=flat&logo=npm&logoColor=white&color=2bbc8a)
 
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 
 
 
