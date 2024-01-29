@@ -19,6 +19,7 @@ My name is Nazmul Islam and I'm a 🚀 Frontend Developer | ⚛️ React.js Deve
 ![](https://img.shields.io/badge/Database-Mongodb-informational?style=flat&logo=mongodb&logoColor=#47A248&color=2bbc8a)
 ![](https://img.shields.io/badge/Authorization-JSON_Web_Tokens-informational?style=flat&logo=jsonwebtokens&logoColor=#000000&color=2bbc8a)
 ![](https://img.shields.io/badge/Server-Express.js-informational?style=flat&logo=express&logoColor=#000000&color=2bbc8a)
+![](https://img.shields.io/badge/Backend-Node.js-informational?style=flat&logo=nodedotjs&logoColor=#339933&color=339933)
 
 
 
