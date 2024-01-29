@@ -44,9 +44,9 @@ My name is Nazmul Islam and I'm a 🚀 Frontend Developer | ⚛️ React.js Deve
 
 <!-- links to your social media accounts -->
 
-[1]: https://twitter.com/Martin_Heinz_
-[2]: https://github.com/MartinHeinz
-[3]: https://www.linkedin.com/in/heinz-martin/
+[1]: https://twitter.com/ntamim95
+[2]: https://github.com/NazmulIslam95
+[3]: https://www.linkedin.com/in/ni-tamim/
 
 
 <!-- Resources -->
