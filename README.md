@@ -7,7 +7,7 @@
 My name is Nazmul Islam and I'm a 🚀 Frontend Developer | ⚛️ React.js Developer. I'm from Bangladesh, living in Dhaka. You can find me on [![Twitter][1.2]][1]  or on [![LinkedIn][3.2]][3].
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=#F7DF1E&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=#F7DF1E&color=#F7DF1E)
 ![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=#4FC08D&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=#4EAA25&color=2bbc8a)
 ![](https://img.shields.io/badge/Routing-React_Router-informational?style=flat&logo=reactrouter&logoColor=#CA4245&color=2bbc8a)
