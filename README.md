@@ -7,18 +7,18 @@
 My name is Nazmul Islam and I'm a 🚀 Frontend Developer | ⚛️ React.js Developer. I'm from Bangladesh, living in Dhaka. You can find me on [![Twitter][1.2]][1]  or on [![LinkedIn][3.2]][3].
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Routing-React_Router-informational?style=flat&logo=reactrouter&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=#F7DF1E&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=#4FC08D&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=#4EAA25&color=2bbc8a)
+![](https://img.shields.io/badge/Routing-React_Router-informational?style=flat&logo=reactrouter&logoColor=#CA4245&color=2bbc8a)
 ![](https://img.shields.io/badge/Frontend-React.js-informational?style=flat&logo=react&logoColor=#61DAFB&color=2bbc8a)
-![](https://img.shields.io/badge/Style-Tailwind_CSS-informational?style=flat&logo=tailwindcss&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Authentication-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Deploy-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Package_Manager-npm-informational?style=flat&logo=npm&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Database-Mongodb-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Authorization-JSON_Web_Tokens-informational?style=flat&logo=jsonwebtokens&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Server-Express.js-informational?style=flat&logo=express&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Style-Tailwind_CSS-informational?style=flat&logo=tailwindcss&logoColor=#06B6D4&color=2bbc8a)
+![](https://img.shields.io/badge/Authentication-Firebase-informational?style=flat&logo=firebase&logoColor=#FFCA28&color=2bbc8a)
+![](https://img.shields.io/badge/Deploy-Netlify-informational?style=flat&logo=netlify&logoColor=#00C7B7&color=2bbc8a)
+![](https://img.shields.io/badge/Package_Manager-npm-informational?style=flat&logo=npm&logoColor=#CB3837&color=2bbc8a)
+![](https://img.shields.io/badge/Database-Mongodb-informational?style=flat&logo=mongodb&logoColor=#47A248&color=2bbc8a)
+![](https://img.shields.io/badge/Authorization-JSON_Web_Tokens-informational?style=flat&logo=jsonwebtokens&logoColor=#000000&color=2bbc8a)
+![](https://img.shields.io/badge/Server-Express.js-informational?style=flat&logo=express&logoColor=#000000&color=2bbc8a)
 
 
 
