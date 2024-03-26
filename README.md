@@ -1,5 +1,5 @@
 <!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
-[![MasterHead](https://i.ibb.co/0KcxWwr/Professional-Web-Developer-Creative-Teal-Yellow-and-Orange-Facebook-Cover.gif)](https://github.com/NazmulIslam95/NazmulIslam95)
+[![MasterHead](https://ibb.co/42JhPMs)](https://github.com/NazmulIslam95/NazmulIslam95)
 <!--![Header](https://i.ibb.co/T1r9mRK/Github-Readme-file-cover.jpg "Header")-->
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
