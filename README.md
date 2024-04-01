@@ -1,5 +1,5 @@
 <!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
-[![MasterHead](https://s12.gifyu.com/images/SV8OG.gif)](https://github.com/NazmulIslam95/NazmulIslam95)
+[![MasterHead](https://i.ibb.co/dpwnR80/Black-and-White-Creative-Profile-Information-Linked-In-Article-Cover-Image.jpg)](https://github.com/NazmulIslam95/NazmulIslam95)
 <!--![Header](https://i.ibb.co/T1r9mRK/Github-Readme-file-cover.jpg "Header")-->
 <div align="center">
   <a href="https://git.io/typing-svg">
