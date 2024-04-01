@@ -1,6 +1,11 @@
 <!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
 [![MasterHead](https://s12.gifyu.com/images/SV8OG.gif)](https://github.com/NazmulIslam95/NazmulIslam95)
 <!--![Header](https://i.ibb.co/T1r9mRK/Github-Readme-file-cover.jpg "Header")-->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Tac+One&weight=100&size=23&pause=1000&center=true&vCenter=true&random=false&width=435&lines=A+passionate+Web+Developer%E2%9C%A8%F0%9F%8C%90;%F0%9F%9A%80+Frontend+Developer;%E2%9A%9B%EF%B8%8F+React.js+Developer" alt="Typing SVG">
+  </a>
+</div>
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
