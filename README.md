@@ -73,9 +73,20 @@ My name is Nazmul Islam and I'm a 🚀 Frontend Developer | ⚛️ React.js Deve
 
 <!-- links to your social media accounts -->
 
-[1]: https://twitter.com/ntamim95
-[2]: https://github.com/NazmulIslam95
-[3]: https://www.linkedin.com/in/ni-tamim/
+<h4> Connect with me🤝: <h4>
+  </hr>
+  <a href="https://www.linkedin.com/in/ni-tamim/">
+   <img align="left" alt="Nazmul Islam Tamim| Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
+  </a>
+  <a href="mailto:nazmulislamctg@gmail.com">
+    <img align="left" alt="Nazmul Islam Tamim| Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
+  </a>
+  <a href="https://twitter.com/ntamim95">
+    <img align="left" alt="Nazmul Islam Tamim| Instagram" width="24px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
+  </a>
+   <a href="https://www.facebook.com/N.Tamim95/">
+    <img align="left" alt="Nazmul Islam Tamim| Github" width="26px" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" />
+  </a>
 
 
 <!-- Resources -->
