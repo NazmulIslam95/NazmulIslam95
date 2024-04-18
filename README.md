@@ -76,17 +76,19 @@ My name is Nazmul Islam and I'm a 🚀 Frontend Developer | ⚛️ React.js Deve
 <h4> Connect with me🤝: <h4>
   </hr>
   <a href="https://www.linkedin.com/in/ni-tamim/">
-   <img align="left" alt="Nazmul Islam Tamim| Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
+   <img align="left" alt="Nazmul Islam Tamim | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
   </a>
   <a href="mailto:nazmulislamctg@gmail.com">
-    <img align="left" alt="Nazmul Islam Tamim| Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
+    <img align="left" alt="Nazmul Islam Tamim | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
   </a>
   <a href="https://twitter.com/ntamim95">
-    <img align="left" alt="Nazmul Islam Tamim| Instagram" width="24px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
+    <img align="left" alt="Nazmul Islam Tamim | Instagram" width="24px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
   </a>
    <a href="https://www.facebook.com/N.Tamim95/">
-    <img align="left" alt="Nazmul Islam Tamim| Github" width="26px" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" />
+    <img align="left" alt="Nazmul Islam Tamim | Github" width="26px" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" />
   </a>
+</hr>
+  <p align="center" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Nazmulislam95" alt="nazmul's Github"  /></a> </p>
 
 
 <!-- Resources -->
