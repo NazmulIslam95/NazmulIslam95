@@ -38,24 +38,7 @@ My name is Nazmul Islam and I'm a 🚀 Full-Stack Web Developer | ⚛️ React.j
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" width="50">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" width="50">
 </div>
-
-
-
-
-## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/NazmulIslam95">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NazmulIslam95&hide=java,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-<a href="https://github.com/NazmulIslam95">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=NazmulIslam95&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
-</a>
-<a href="https://github.com/NazmulIslam95/EduEventsPro">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NazmulIslam95&repo=EduEventsPro&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/NazmulIslam95/car-doctor-with-mongo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NazmulIslam95&repo=car-doctor-with-mongo&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
+ 
 
 <!-- links to social media icons -->
 
