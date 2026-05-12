@@ -1,5 +1,5 @@
 <!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
-[!MasterHead][(https://i.ibb.co.com/fYyf2XRj/Linked-In-Cover-Image.jpg)]
+[![MasterHead](https://i.ibb.co.com/fYyf2XRj/Linked-In-Cover-Image.jpg)](https://github.com/NazmulIslam95/NazmulIslam95)
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Tac+One&weight=100&size=23&pause=1000&center=true&vCenter=true&random=false&width=435&lines=A+passionate+Web+Developer%E2%9C%A8%F0%9F%8C%90;%F0%9F%9A%80+Frontend+Developer;%E2%9A%9B%EF%B8%8F+React.js+Developer" alt="Typing SVG">
